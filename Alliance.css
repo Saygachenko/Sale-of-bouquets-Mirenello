@@ -1,0 +1,1049 @@
+.menu a {
+	color: black;
+	text-decoration: none;
+
+}
+
+.footerText a {
+	color: #5f5e5e;
+	text-decoration: none;
+}
+
+.menu a:hover
+{
+	color: #9a9a9a;
+}
+
+.footerText a:hover
+{
+	color: #ffffff
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* header */
+#nameOfSite
+{
+	position: absolute;
+	width: 212px;
+	height: 29px;
+	left: 380px;
+	top: 25px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+	/* identical to box height */
+
+
+	color: black;
+}
+
+#highlightNameSite
+{
+	color: #F20D0D;
+}
+
+#buttonHomeOfHeader
+{
+	position: absolute;
+	height: 20px;
+	left: 670px;
+	top: 35px;
+	
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #181616 !important;
+}
+
+#buttonComposyOfHeader
+{
+	position: absolute;
+	height: 22px;
+	left: 886px;
+	top: 35px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #0C0C0C;
+}
+
+#buttonColBouOfHeader
+{
+	position: absolute;
+	width: 128px;
+	height: 22px;
+	left: 1048.78px;
+	top: 35px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
+
+#buttonAboutUsOfheader
+{
+	position: absolute;
+	height: 22px;
+	left: 1209.98px;
+	top: 35px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+
+	color: #000000;
+}
+
+#changeLangRu
+{
+	position: absolute;
+	width: 28px;
+	height: 22px;
+	left: 1303px;
+	top: 34.36px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	/* identical to box height */
+
+
+	color: #000000;
+}
+
+#langSelect
+{
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	left: 1339.85px;
+	top: 55px;
+}
+
+#buttonSearch
+{
+	position: absolute;
+	width: 21px;
+	height: 20px;
+	left: 1387px;
+	top: 55px;
+}
+
+#buttonHearth
+{
+	position: absolute;
+	width: 21px;
+	height: 20px;
+	left: 1422px;
+	top: 55px;
+}
+
+#buttonCart
+{
+	position: absolute;
+	left: 1450px;
+	top: 50px;
+}
+
+#headImage
+{
+	position: absolute;
+	width: 1920px;
+	height: 800px;
+	left: 0px;
+	top: 103px;
+}
+
+
+#titleOfHeader
+{
+	position: absolute;
+	width: 593px;
+	height: 49px;
+	left: 480px;
+	top: 266px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 49px;
+	/* identical to box height */
+
+
+	color: #0C0C0C;
+}
+
+#subtitleOfHeader{
+	position: absolute;
+	width: 654px;
+	height: 156px;
+	left: 480px;
+	top: 413px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 39px;
+
+	color: #585757;
+}
+#highlight
+{
+	color: #F20D0D;
+}
+
+#buttonHeader
+{
+	position: absolute;
+	width: 175.91px;
+	height: 66.07px;
+	left: 575px;
+	top: 640px;
+}
+
+/* header */
+
+
+/* body */
+
+#backgroundShowcase
+{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 1929.51px;
+	height: 1368.33px;
+	left: -0.51px;
+	top: 1012.03px;
+}
+
+#bestsellerText
+{
+	position: absolute;
+	width: 343px;
+	height: 121px;
+	left: 864.07px;
+	top: 1023.25px;
+
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 39px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#область бестселлера
+{
+	position: absolute;
+	width: 1139.16px;
+	height: 1088.57px;
+	left: 405.84px;
+	top: 1119.52px;
+}
+/*=================== первый букет ===================*/
+#bouquetShowcaseOne
+{
+	position: absolute;
+	width: 339.16px;
+	height: 383.54px;
+	left: 405.84px;
+	top: 1119.52px;
+
+	background: url(images/showcase/bouquet 1.png);
+}
+#priceBouquetOne
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 500px;
+	top: 1500px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartOne
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 432px;
+	top: 1575.86px;
+
+}
+/*=================== второй букет ===================*/
+#bouquetShowcaseTwo
+{
+	position: absolute;
+	width: 339.33px;
+	height: 383.54px;
+	left: 796.84px;
+	top: 1119.52px;
+
+	background: url(images/showcase/bouquet 2.png);
+}
+#priceBouquetTwo
+{
+	position: absolute;
+	width: 149px;
+	height: 27px;
+	left: 875px;
+	top: 1500px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+	/* identical to box height */
+
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartTwo
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 822.97px;
+	top: 1580.65px;
+}
+
+/*=================== третий букет ===================*/
+#bouquetShowcaseThree
+{
+	position: absolute;
+	width: 348.16px;
+	height: 383.54px;
+	left: 1185px;
+	top: 1119.52px;
+
+	background: url(images/showcase/bouquet 3.png);
+}
+#priceBouquetThree
+{
+	position: absolute;
+	width: 267px;
+	height: 46.54px;
+	left: 1278px;
+	top: 1500px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartThree
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 1222px;
+	top: 1576.61px;
+}
+/*=================== четвёртый букет ===================*/
+#bouquetShowcaseFour
+{
+	position: absolute;
+	width: 339.33px;
+	height: 421.07px;
+	left: 405.84px;
+	top: 1665.93px;
+
+	background: url(images/showcase/bouquet 4.png);
+}
+#priceBouquetFour
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 486px;
+	top: 2087px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartFour
+{
+	position: absolute;
+	width: 260px;
+	height: 45px;
+	left: 445px;
+	top: 2163.09px;
+}
+
+/*=================== пятый букет ===================*/
+#bouquetShowcaseFive
+{
+	position: absolute;
+	width: 339.33px;
+	height: 421.07px;
+	left: 796.84px;
+	top: 1665.93px;
+
+	background: url(images/showcase/bouquet 5.png);
+}
+#priceBouquetFive
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 875.87px;
+	top: 2087px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartFive
+{
+	position: absolute;
+	width: 260px;
+	height: 45px;
+	left: 830.95px;
+	top: 2163.09px;
+}
+/*=================== шестой букет ===================*/
+#bouquetShowcaseSix
+{
+	position: absolute;
+	width: 348.16px;
+	height: 421.07px;
+	left: 1185px;
+	top: 1665.93px;
+
+	background: url(images/showcase/bouquet 6.png);
+}
+#priceBouquetSix
+{
+	position: absolute;
+	width: 266.86px;
+	height: 45.03px;
+	left: 1278px;
+	top: 2087px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 27px;
+
+	color: rgba(8, 8, 8, 0.949355);
+}
+#buttonInCartSix
+{
+	position: absolute;
+	width: 260px;
+	height: 45px;
+	left: 1225px;
+	top: 2161.71px;
+}
+/*=================== низ страницы ===================*/
+
+#buttonAddInfOne
+{
+	position: absolute;
+	width: 184px;
+	height: 58px;
+	left: 872.5px;
+	top: 2267px;
+}
+
+/*=================== next страница , там где СОБЕРИ БУКЕТ ===================*/
+
+#createBouquetOne
+{
+	position: absolute;
+	width: 751px;
+	height: 473px;
+	left: 793.5px;
+	top: 2619.01px;
+	
+	z-index: 2;
+	background: url(images/create bouquet/image 1.png);
+	border-radius: 180px;
+}
+
+#createBouquetTwo
+{
+	position: absolute;
+	width: 1160px;
+	height: 734px;
+	left: 384.5px;
+	top: 2485.01px;
+	
+	z-index: 1;
+	background: url(images/create bouquet/image 2.png);
+	border-radius: 90px;
+}
+
+#createBouquetThree
+{
+	position: absolute;
+	width: 660px;
+	height: 340px;
+	left: 484.5px;
+	top: 2701.01px;
+
+	z-index: 2;
+	background: rgba(217, 217, 217, 0.24);
+}
+
+#textUnicalBouquet
+{
+	position: absolute;
+	width: 381px;
+	height: 39px;
+	left: 584.5px;
+	top: 2812.01px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 39px;
+	/* identical to box height */
+
+	z-index: 4;
+	color: rgba(8, 8, 8, 0.949355);
+}
+
+#textYourBouquet
+{
+	position: absolute;
+	width: 450px;
+	height: 257px;
+	left: 644.5px;
+	top: 2882.01px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 39px;
+	
+	z-index: 4;
+	color: rgba(8, 8, 8, 0.949355);
+}
+
+#textCreateBouquet
+{
+	position: absolute;
+	width: 164px;
+	height: 48px;
+	left: 639.5px;
+	top: 3079.01px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #FFFFFF;
+}
+#buttonAddInfThree
+{
+	position: absolute;
+	width: 230px;
+	height: 67px;
+	left: 596.5px;
+	top: 3058.01px;
+	z-index: 5;
+}
+
+#cursorCreateBouquet
+{
+	position: absolute;
+	width: 30px;
+	height: 38.74px;
+	left: 570px;
+	top: 3110px;
+
+}
+/*=================== КОМПОЗИЦИЯ ===================*/
+#backgroundComposy
+{
+	position: absolute;
+	width: 1927.81px;
+	height: 1435.66px;
+	left: -0.51px;
+	top: 3439.78px;	
+}
+#textTitleComposy
+{
+	position: absolute;
+	width: 472.92px;
+	height: 67px;
+	left: 865.2px;
+	top: 3485.78px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 29px;
+
+	color: #000000;
+}
+#textSubtitleComposy
+{
+	position: absolute;
+	width: 1174.76px;
+	height: 89px;
+	left: 612.17px;
+	top: 3556.78px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 29px;
+
+	color: #000000;
+}
+#bouquetComposyOne
+{
+	position: absolute;
+	width: 461.87px;
+	height: 424.13px;
+	left: 386.26px;
+	top: 3648.06px;
+
+	background: url(images/composy/bouquet 1.png);
+}
+#bouquetComposyTwo
+{
+	position: absolute;
+	width: 282.14px;
+	height: 199.5px;
+	left: 874.24px;
+	top: 3645.78px;
+
+	background: url(images/composy/bouquet 2.png);
+}
+#bouquetComposyThree
+{
+	position: absolute;
+	width: 361.46px;
+	height: 428.7px;
+	left: 1186.5px;
+	top: 3645.78px;
+
+	background: url(images/composy/bouquet 3.png);
+}
+#bouquetComposyFour
+{
+	position: absolute;
+	width: 461.87px;
+	height: 504.09px;
+	left: 383.25px;
+	top: 4161.29px;
+
+	background: url(images/composy/bouquet 4.png);
+}
+#bouquetComposyFive
+{
+	position: absolute;
+	width: 282.14px;
+	height: 389.11px;
+	left: 878.25px;
+	top: 3926px;
+
+	background: url(images/composy/bouquet 5.png);
+}
+#bouquetComposySix
+{
+	position: absolute;
+	width: 295.2px;
+	height: 286.31px;
+	left: 872.23px;
+	top: 4379.07px;
+
+	background: url(images/composy/bouquet 6.png);
+}
+#bouquetComposySeven
+{
+	position: absolute;
+	width: 361.46px;
+	height: 504.09px;
+	left: 1186.5px;
+	top: 4161.29px;
+
+	background: url(images/composy/bouquet 7.png);
+}
+#buttonAddInfTwo
+{
+	position: absolute;
+	width: 213.81px;
+	height: 57.32px;
+	left: 885.28px;
+	top: 4758.38px;
+}
+/*=================== next страница ===================*/
+#backgroundAboutUs
+{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 1925.01px;
+	height: 903px;
+	left: -0.51px;
+	top: 5056.11px;
+
+	background: rgba(252, 238, 238, 0.240357);
+}
+#imageAboutUs
+{
+	position: absolute;
+	width: 446.16px;
+	height: 543px;
+	left: 380.44px;
+	top: 5236.11px;
+
+	background: url(images/about us/bouquet.png);
+}
+#textAboutUs
+{
+	position: absolute;
+	width: 609.59px;
+	height: 722px;
+	left: 866.7px;
+	top: 5253.11px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 32px;
+
+	color: #0C0C0C;
+}
+/*=================== next страница ===================*/
+#backgroundFooterOne
+{
+	position: absolute;
+	width: 1981.63px;
+	height: 115px;
+	left: -48.13px;
+	top: 6118px;
+	
+}
+#textFooterSubscribe
+{
+	position: absolute;
+	width: 497px;
+	height: 51px;
+	left: 216px;
+	top: 6115px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28px;
+	line-height: 34px;
+
+	color: #FFFFFF;
+}
+#textFooterDiscount
+{
+	position: absolute;
+	width: 306px;
+	height: 61px;
+	left: 280px;
+	top: 6155px;
+
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 28px;
+	line-height: 34px;
+
+	color: #FFFFFF;
+}
+
+#inputText
+{
+	position: absolute;
+	width: 400px;
+	height: 40px;
+	left: 1280px;
+	top: 6155px;
+	
+	border: 0;
+	padding-left: 10px;
+	padding-right: 50px;
+	
+	font-family: 'Montserrat';
+	font-size: 20px;
+	border-radius: 180px;
+
+	background: #efe4e4;
+}
+
+
+#iconSend
+{
+	position: absolute;
+	width: 22.99px;
+	height: 23px;
+	left: 1700px;
+	top: 6165px;
+
+	background: url(images/icon/send.ico);
+}
+/*=================== next страница ===================*/
+#backgroundFooterTwo
+{
+	position: absolute;
+	width: 1940.28px;
+	height: 438px;
+	left: -6.78px;
+	top: 6229.59px;
+}
+#nameOfSiteFooter
+{
+	position: absolute;
+	width: 555.32px;
+	height: 53px;
+	left: 26.68px;
+	top: 6250px;
+	
+	z-index: 1;
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 100;
+	font-size: 32px;
+	line-height: 39px;
+	
+	color: #E7D9A1;
+}
+
+.footerInfoText
+{
+	font-family: 'Montserrat';
+	font-style: italic;
+	font-weight: 100;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #EEECE7;
+}
+
+#nameAdress
+{
+	position: absolute;
+	width: 608.85px;
+	height: 52.23px;
+	left: 26.68px;
+	top: 6400px;
+}
+#phoneNumber
+{
+	position: absolute;
+	width: 635.61px;
+	height: 47.75px;
+	left: 26.68px;
+	top: 6440px;
+}
+#textFollowUs
+{
+	position: absolute;
+	width: 595.46px;
+	height: 47.01px;
+	left: 26.68px;
+	top: 6500px;
+}
+
+#iconInstagram
+{
+	position: absolute;
+	width: 66.14px;
+	height: 54.05px;
+	left: 28.51px;
+	top: 6562.23px;
+
+	background: url(images/icon/instagram.ico);
+}
+
+#iconTelegram
+{
+	position: absolute;
+	width: 72.54px;
+	height: 55.08px;
+	left: 143.11px;
+	top: 6562.23px;
+
+	background: url(images/icon/telegram.ico);
+}
+
+#iconFacebook
+{
+	position: absolute;
+	width: 68.46px;
+	height: 51.98px;
+	left: 262.64px;
+	top: 6562.23px;
+
+	background: url(images/icon/facebook.ico);
+}
+
+.footerTexSublitle
+{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+
+	color: #B4B0B0;
+}
+
+.footerText
+{
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 24px;
+
+	color: #5f5e5e;
+}
+
+#textInformation
+{
+	position: absolute;
+	width: 173px;
+	height: 29px;
+	left: 996.81px;
+	top: 6275.59px;
+}
+
+#textCatalog
+{
+	position: absolute;
+	width: 98px;
+	height: 58px;
+	left: 1493.59px;
+	top: 6275.59px;
+}
+
+#textFAQ
+{
+	position: absolute;
+	width: 317.35px;
+	height: 44.77px;
+	left: 996.81px;
+	top: 6340px;
+
+}
+#textDelivery
+{
+	position: absolute;
+	width: 429.87px;
+	height: 47.75px;
+	left: 996.81px;
+	top: 6388.76px;
+}
+#textСonfidentiality
+{
+	position: absolute;
+	width: 429.87px;
+	height: 39.55px;
+	left: 996.81px;
+	top: 6442.59px;
+}
+#textSecurity
+{
+	position: absolute;
+	width: 242.2px;
+	height: 58.95px;
+	left: 996.81px;
+	top: 6494.07px;
+}
+
+#textBouquete
+{
+	position: absolute;
+	width: 429.87px;
+	height: 39.55px;
+	left: 1493.59px;
+	top: 6338.93px;
+}
+#textComposy
+{
+	position: absolute;
+	width: 429.87px;
+	height: 39.55px;
+	left: 1493.59px;
+	top: 6387.44px;
+}
+#textAboutUsFooter
+{
+	position: absolute;
+	width: 429.87px;
+	height: 39.55px;
+	left: 1493.59px;
+	top: 6435.94px;
+}
+
+header {
+	position: fixed;
+	width: 2000px;
+	height: 100px;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background: white;
+	z-index: 10;">
+}
